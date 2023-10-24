@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the basics of html, css and javascript.
 - 💞️ I’m looking to collaborate on start up projects with beginners. 
 - 📫 How to reach me Email: schmidtdaniel93@yahoo.com
+- 📚I am currently a computer science major at SNHU with a concentraion of Software Engineering.  
 
 <!---
 Dann1031/Dann1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
